@@ -22,7 +22,7 @@ CHIANG Pui Shan Maple 13360332
 ![image](https://github.com/LutherYTT/Streaming-Service-app-to-promote-anti-piracy/assets/121934401/b719cd43-2134-401b-8d38-03b7684ec33d)
 
 
-
+# Project Overview #
 ## About this project ##
 
 This prototype only works on Android. If you want to use it on a PC, you may need an emulator.
@@ -33,15 +33,15 @@ This prototype requires an internet connection. Without it, some features may no
 
 
 
-## Features ##
+# Features #
 
 Our app comprises six main components: Platform, Checker, News and Logs, Forums, About, and Quizzes.
 
-### Platform ###
+## Platform ##
 
 This section displays six categories, each linking to its respective legal streaming platform.
 
-### Checker ###
+## Checker ##
 
 This feature scans and identifies potential sources of pirated content, user can input the link and checker will return the result.
 
