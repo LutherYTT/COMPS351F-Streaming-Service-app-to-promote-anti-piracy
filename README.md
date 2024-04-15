@@ -33,32 +33,32 @@ This prototype requires an internet connection. Without it, some features may no
 
 ## Features ##
 
-There have 6 main parts in our app: Platform, Checker, News and Logs, Forums, About and Quizzes
+Our app comprises six main components: Platform, Checker, News and Logs, Forums, About, and Quizzes.
 
 ### Platform ###
 
-Shows six categories of the app which links to its respective legal streaming platforms
+This section displays six categories, each linking to its respective legal streaming platform.
 
 ### Checker ###
 
-Scans and identifies potentially pirated content sources
+This feature scans and identifies potential sources of pirated content, user can input the link and checker will return the result.
 
 ### News and Logs ###
 ![image](https://github.com/LutherYTT/Streaming-Service-app-to-promote-anti-piracy/assets/121934401/c7147d85-cc52-46c7-8c44-6625d0e32384)
 
-Provides app improvements and previews upcoming features or developments related to anti-piracy efforts
+This section provides updates on app improvements and previews upcoming features or developments related to anti-piracy efforts.
 
 ### Forums ###
 ![image](https://github.com/LutherYTT/Streaming-Service-app-to-promote-anti-piracy/assets/121934401/39097eff-bbf7-4e79-9006-d8d4c0dd7b9e)
 
-Features topic-specific threads for users to join discussions 
+The Forums feature topic-specific threads, allowing users to join and contribute to discussions.
 
 ### About ###
 
-Offers tutorials and guides on identifying pirated content, slows users provide feedbacks and explains privacy policies matters
+This section offers tutorials and guides on identifying pirated content, allows users to provide feedback, and explains matters related to privacy policies.
 
 ### Quizzes ###
 
-Provide exercises for practical understanding  
+Quizzes are provided to facilitate practical understanding of the topics covered.
 
 
