@@ -22,6 +22,7 @@ CHIANG Pui Shan Maple 13360332
 ![image](https://github.com/LutherYTT/Streaming-Service-app-to-promote-anti-piracy/assets/121934401/b719cd43-2134-401b-8d38-03b7684ec33d)
 
 
+
 ## About this project ##
 
 This prototype only works on Android. If you want to use it on a PC, you may need an emulator.
@@ -29,6 +30,7 @@ This prototype only works on Android. If you want to use it on a PC, you may nee
 You will need to download the APK file onto your device and run it.
 
 This prototype requires an internet connection. Without it, some features may not function correctly.
+
 
 
 ## Features ##
@@ -62,3 +64,14 @@ This section offers tutorials and guides on identifying pirated content, allows 
 Quizzes are provided to facilitate practical understanding of the topics covered.
 
 
+
+## Challenges ##
+- Competition on content negatively impacts our exposure and marketing efforts.
+- High licensing fees from various platforms obstruct our expansion.
+- Relying on exclusive shows and IPs may not be an effective strategy for building our own streaming service.
+
+
+
+## Solutions ##
+- Implement an upgraded conversion channel system that consolidates a user’s subscribed streaming services. This system would display and link to each service within a single app, enhancing user convenience.
+- Our streaming service app could directly redirect users to each platform’s website to watch exclusive videos. This approach would reduce the need for multiple app downloads, thereby freeing up device space.
