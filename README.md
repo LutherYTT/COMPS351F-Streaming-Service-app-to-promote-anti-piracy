@@ -22,7 +22,7 @@ The goal is to develop a streaming service application aimed at promoting anti-p
 
 ### About ###
 - This prototype only works on Android. If you want to use it on a PC, you may need an emulator.
-- You will need to download the APK file onto your device and run it.
+- You will need to download the StreamMer.apk file onto your device and run it.
 - This prototype requires an internet connection. Without it, some features may not function correctly.
 
 ### Objectives ###
